@@ -1,0 +1,169 @@
+canvas
+{
+	width: 100%;
+	height: 100%;
+	background: black;
+}
+
+body, html
+{
+	height: 100%;
+	margin: 0;
+}
+
+/*a: {
+		color: '#195250',
+		sound: new Howl({
+		src: ['sounds/A/bubbles.mp3']
+			})
+		},
+		b: {
+		color: '#34a838',
+		sound: new Howl({
+		src: ['sounds/A/clay.mp3']
+			})
+		},
+		c: {
+		color: '#dbce12',
+		sound: new Howl({
+		src: ['sounds/A/confetti.mp3']
+			})
+		}	
+		d: {
+		color: '#6b524f',
+		sound: new Howl({
+		src: ['sounds/A/corona.mp3']
+			})
+		},
+		e: {
+		color: '#6e1975',
+		sound: new Howl({
+		src: ['sounds/A/dotted-spiral.mp3']
+			})
+		},
+		f: {
+		color: '#f20713',
+		sound: new Howl({
+		src: ['sounds/A/flash-1.mp3']
+			})
+		},
+		g: {
+		color: '#f587d4',
+		sound: new Howl({
+		src: ['sounds/A/flash-2.mp3']
+			})
+		},
+		h: {
+		color: '#5df089',
+		sound: new Howl({
+		src: ['sounds/A/flash-3.mp3']
+			})
+		},
+		i: {
+		color: '#0e805f',
+		sound: new Howl({
+		src: ['sounds/A/glimmer.mp3']
+			})
+		},
+		j: {
+		color: '#96bf54',
+		sound: new Howl({
+		src: ['sounds/A/moon.mp3']
+			})
+		},
+		k: {
+		color: '#5990b3',
+		sound: new Howl({
+		src: ['sounds/A/pinwheel.mp3']
+			})
+		},
+		l: {
+		color: '#0d486e',
+		sound: new Howl({
+		src: ['sounds/A/piston-1.mp3']
+			})
+		},
+		m: {
+		color: '#4e085c',
+		sound: new Howl({
+		src: ['sounds/A/piston-2.mp3']
+			})
+		},
+		n: {
+		color: '#827a7f',
+		sound: new Howl({
+		src: ['sounds/A/piston-3.mp3']
+			})
+		},
+		o: {
+		color: '#e3eb07',
+		sound: new Howl({
+		src: ['sounds/A/prism-1.mp3']
+			})
+		},
+		p: {
+		color: '#54dcde',
+		sound: new Howl({
+		src: ['sounds/A/prism-2.mp3']
+			})
+		},
+		q: {
+		color: '#ed9005',
+		sound: new Howl({
+		src: ['sounds/A/prism-3.mp3']
+			})
+		},
+		r: {
+		color: '#287332',
+		sound: new Howl({
+		src: ['sounds/A/splits.mp3']
+			})
+		},
+		s: {
+		color: '#62309c',
+		sound: new Howl({
+		src: ['sounds/A/squiggle.mp3']
+			})
+		},
+		t: {
+		color: '#919deb',
+		sound: new Howl({
+		src: ['sounds/A/strike.mp3']
+			})
+		},
+		u: {
+		color: '#89e0bd',
+		sound: new Howl({
+		src: ['sounds/A/suspension.mp3']
+			})
+		},
+		v: {
+		color: '#00ab66',
+		sound: new Howl({
+		src: ['sounds/A/timer.mp3']
+			})
+		},
+		w: {
+		color: '#f516d3',
+		sound: new Howl({
+		src: ['sounds/A/ufo.mp3']
+			})
+		},
+		x: {
+		color: '#b5b018',
+		sound: new Howl({
+		src: ['sounds/A/veil.mp3']
+			})
+		},
+		y: {
+		color: '#0d0b36',
+		sound: new Howl({
+		src: ['sounds/A/wipe.mp3']
+			})
+		},
+		z: {
+		color: '#625fa3',
+		sound: new Howl({
+		src: ['sounds/A/zig-zag.mp3']
+			})
+		}*/
